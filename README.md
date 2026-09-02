@@ -4,8 +4,6 @@ An AI-powered natural language analytics tool for SaaS business data. Ask questi
 
 🔗 **Live demo:** [taskflow-ai-analytics-k98f95vpxkpscfftevxtut.streamlit.app](https://taskflow-ai-analytics-k98f95vpxkpscfftevxtut.streamlit.app/)
 
-🔗 **GitHub repo:** [github.com/ShwarnaSrivastava23/taskflow-ai-analytics](https://github.com/ShwarnaSrivastava23/taskflow-ai-analytics)
-
 ---
 
 ## What it does
