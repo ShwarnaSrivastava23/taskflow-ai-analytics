@@ -1,5 +1,11 @@
 # 📊 TaskFlow Analytics Assistant
 
+## 🚀 Live Demo
+
+👉 [Try TaskFlow Analytics Assistant]([YOUR-STREAMLIT-APP-LINK](https://taskflow-ai-analytics-k98f95vpxkpscfftevxtut.streamlit.app/))
+
+
+
 An AI-powered natural language analytics tool for SaaS business data. Ask questions in plain English — like *"What is the churn rate by plan tier?"* — and get back real, SQL-backed answers with auto-generated charts.
 ---
 
