@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Try TaskFlow Analytics Assistant]([YOUR-STREAMLIT-APP-LINK](https://taskflow-ai-analytics-k98f95vpxkpscfftevxtut.streamlit.app/))
+👉 [Try TaskFlow Analytics Assistant]: (https://taskflow-ai-analytics-k98f95vpxkpscfftevxtut.streamlit.app/)
 
 
 
